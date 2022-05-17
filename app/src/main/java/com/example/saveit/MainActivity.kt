@@ -1,4 +1,4 @@
-package com.example.savemoney
+package com.example.saveit
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
