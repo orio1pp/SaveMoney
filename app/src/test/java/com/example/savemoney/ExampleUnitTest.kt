@@ -1,4 +1,4 @@
-package com.example.saveit
+package com.example.savemoney
 
 import org.junit.Test
 
